@@ -6,5 +6,3 @@
 - [Website](http://jahidul.info)
 - [Linkdin](https://www.linkedin.com/in/jahidulhasanzahid/)
 - [Facebook](https://www.facebook.com/PicchiNobita/)
-- [E-mail](jahidulhasanzahid1971@gmail.com)
-- [Phone](+8801516149667)
