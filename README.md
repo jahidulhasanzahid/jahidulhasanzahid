@@ -6,10 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Full Stack Web Development
-- 🌱 I’m currently learning ... Vue.js and React JS
-- 👯 I’m looking to collaborate on ... Laravel
-- 🤔 I’m looking for help with ... React JS
+- 🔭 I’m currently working as a ... Web Developer
 - 💬 Ask me about ... Anything something awesome!
 - 📫 How to reach me: ... please check ( www.jahidul.info )
 - ⚡ Fun fact: ... 😜
@@ -18,4 +15,4 @@ Here are some ideas to get you started:
 
 - [Website](http://jahidul.info)
 - [Linkdin](https://www.linkedin.com/in/jahidulhasanzahid/)
-- [Facebook](https://www.facebook.com/PicchiNobita/)
+- [upwork](https://www.upwork.com/freelancers/~019cc34c7556a52d3f)
