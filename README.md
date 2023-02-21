@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a ... Web Developer
-- 💬 Ask me about ... Anything something awesome!
+- 💬 Ask me about ... Anything awesome!
 - 📫 How to reach me: ... please check ( www.jahidul.info )
 - ⚡ Fun fact: ... 😜
 
