@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me...
 
-- [Website](http://jahidul.info)
-- [Linkdin](https://www.linkedin.com/in/jahidulhasanzahid/)
-- [upwork](https://www.upwork.com/freelancers/~019cc34c7556a52d3f)
+- [email](jahidulhasanzahid1971@gmail.com)
