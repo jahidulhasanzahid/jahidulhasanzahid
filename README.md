@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently leaning more for my skill development
+- 🔭 Explorer & Learner
 - 💬 Ask me about ... Anything awesome!
 - 📫 How to reach me: ... email me.
 - ⚡ Fun fact: ... 😜
