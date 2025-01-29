@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me...
 
-- Email: jahidulhasanzahid1971@gmail.com
+- jahidulhasanzahid1971@gmail.com
 - <a href="https://www.linkedin.com/in/jahidulhasanzahid/">Linkedin</a>
 - <a href="https://www.hackerrank.com/profile/jhzahid001">HackerRank</a>
 - <a href="https://leetcode.com/u/jahidulhasanzahid/">LeetCode</a>
