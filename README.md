@@ -2,8 +2,6 @@
 <h5 align="center">Software Developer</h5>
 <img src="https://anku255.github.io/assets/img/posts/hello-world.jpg" align="center"/>
 
-### Hi, Here is What I'm Working On!
-
 Here are some ideas to get you started:
 
 - 🔭 Explorer & Learner
