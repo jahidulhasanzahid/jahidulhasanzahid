@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me...
 
-- jahidulhasanzahid1971@gmail.com
+- proactive.zahid@gmail.com
 - <a href="https://www.linkedin.com/in/jahidulhasanzahid/">Linkedin</a>
 - <a href="https://www.hackerrank.com/profile/jhzahid001">HackerRank</a>
 - <a href="https://leetcode.com/u/jahidulhasanzahid/">LeetCode</a>
